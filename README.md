@@ -25,11 +25,15 @@ Here are some ideas to get you started:
 
 Sou apaixonada por tecnologia e pelo potencial dos dados em transformar decisões e negócios. Atualmente, estou estagiando com RPA (Automação de Processos) e expandindo meus conhecimentos em Ciência de Dados, unindo programação, análise e resolução de problemas.
 
+--------------------------------------------------
+
 🛠️ Habilidades
 
 Linguagens: Python, C++, SQL
 Bibliotecas & Ferramentas: Pandas, NumPy, Matplotlib
 Banco de Dados: modelagem, consultas e otimização
+
+--------------------------------------------------
 
 📫 Contato
 
