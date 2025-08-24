@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 👩‍💻 Maria Eduarda Alves Martim
 
 🌎 Itajaí - Santa Catarina, Brasil
-🎓 19 anos | Estagiária em Desenvolvimento de RPA na BRF
-📊 Objetivo: seguir carreira em Ciência de Dados
+
+🎓 19 anos | Estagiária em Desenvolvimento de RPA
 
 --------------------------------------------------
 
